@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
   # Application title
-  titlePanel("p3m.dev"),
+  titlePanel("non-valid-cran"),
 
   # Sidebar with a slider input for number of bins
   sidebarLayout(
