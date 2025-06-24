@@ -38,7 +38,7 @@
       }
     },
     "Rcpp": {
-      "Source": "CRAN",
+      "Source": "TRON",
       "Repository": "https://p3m.dev/cran/latest",
       "description": {
         "Package": "Rcpp",
