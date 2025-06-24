@@ -38,7 +38,7 @@
       }
     },
     "Rcpp": {
-      "Source": "CRAN",
+      "Source": "Middle Earth",
       "Repository": "https://packagemanager.posit.co/cran/latest",
       "description": {
         "Package": "Rcpp",
